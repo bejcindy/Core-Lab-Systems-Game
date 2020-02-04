@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: caebf09ee515948a79cf4d3a61e43f2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7911479746723983568
+    second: WitchAnimation_0
+  - first:
+      213: -209439724303010781
+    second: WitchAnimation_1
+  - first:
+      213: -8059413832113199459
+    second: WitchAnimation_2
+  - first:
+      213: -9124194841671353558
+    second: WitchAnimation_3
+  - first:
+      213: -2006338632644139038
+    second: WitchAnimation_4
+  - first:
+      213: -6398683975073474969
+    second: WitchAnimation_5
+  - first:
+      213: -1687933741498906196
+    second: WitchAnimation_6
+  - first:
+      213: 635758703688015343
+    second: WitchAnimation_7
+  - first:
+      213: -6859326928823350545
+    second: WitchAnimation_8
+  - first:
+      213: -5485673531592038211
+    second: WitchAnimation_9
+  - first:
+      213: 7360888594835481336
+    second: WitchAnimation_10
+  - first:
+      213: -1227146400038659134
+    second: WitchAnimation_11
+  - first:
+      213: 3075888838010717403
+    second: WitchAnimation_12
+  - first:
+      213: 4115434344413872649
+    second: WitchAnimation_13
+  - first:
+      213: 29108908451873773
+    second: WitchAnimation_14
+  - first:
+      213: -2279303299419879598
+    second: WitchAnimation_15
+  - first:
+      213: -5301390705175352536
+    second: WitchAnimation_16
+  - first:
+      213: -2900384404571171342
+    second: WitchAnimation_17
+  - first:
+      213: -4463349303972816291
+    second: WitchAnimation_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WitchAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6334
+        width: 1606
+        height: 1858
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea76cb1e5a0a4e57b04344233c628cc
+      internalID: -7911479746723983568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 6338
+        width: 1604
+        height: 1854
+      alignment: 9
+      pivot: {x: 0.505474, y: 0.50157833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce615982a83834943bda3f34907ed2dc
+      internalID: -209439724303010781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 6338
+        width: 1608
+        height: 1854
+      alignment: 9
+      pivot: {x: 0.5054602, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad36e766507e4497af7d0278d67190d
+      internalID: -8059413832113199459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 4817
+        y: 6342
+        width: 1612
+        height: 1850
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2690b61d51244ec8b9d8d71f0e641b4
+      internalID: -9124194841671353558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 6426
+        y: 6342
+        width: 1766
+        height: 1850
+      alignment: 9
+      pivot: {x: 0.45929375, y: 0.5017507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e70a4e59944309aa1452f9417ac2b
+      internalID: -2006338632644139038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4490
+        width: 1614
+        height: 1852
+      alignment: 9
+      pivot: {x: 0.5014263, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a747ff9e604609a726cac480a1c21
+      internalID: -6398683975073474969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 4494
+        width: 1620
+        height: 1848
+      alignment: 9
+      pivot: {x: 0.5012281, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1971f2bc28c3a42569836d3028000b69
+      internalID: -1687933741498906196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 4498
+        width: 1620
+        height: 1843
+      alignment: 9
+      pivot: {x: 0.4974219, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad5decca74749c0b8a808ec8323294
+      internalID: 635758703688015343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 4498
+        width: 1620
+        height: 1844
+      alignment: 9
+      pivot: {x: 0.4990358, y: 0.50175637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b1c9494e6a43f7ad3e2e34a28a984
+      internalID: -6859326928823350545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 4502
+        width: 1694
+        height: 1840
+      alignment: 9
+      pivot: {x: 0.47822884, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d636a96dd7824978b9af4f088cd6c4f
+      internalID: -5485673531592038211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2662
+        width: 1624
+        height: 1832
+      alignment: 9
+      pivot: {x: 0.49723595, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af340745bd9745f483f765703001e9c
+      internalID: 7360888594835481336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2662
+        width: 1624
+        height: 1832
+      alignment: 9
+      pivot: {x: 0.49762067, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db64f60dab5c54d0eb7047747b3d9a96
+      internalID: -1227146400038659134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 2666
+        width: 1628
+        height: 1828
+      alignment: 9
+      pivot: {x: 0.49345514, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3442433ac28f4e698b6c7117371e8c9
+      internalID: 3075888838010717403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 4922
+        y: 2670
+        width: 1628
+        height: 1824
+      alignment: 9
+      pivot: {x: 0.4950611, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119cfd6e932964ca9a6eb5ad4af506c8
+      internalID: 4115434344413872649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 842
+        width: 1632
+        height: 1824
+      alignment: 9
+      pivot: {x: 0.491033, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c40ecd417254c37a925ccc889832f5
+      internalID: 29108908451873773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 838
+        width: 1628
+        height: 1828
+      alignment: 9
+      pivot: {x: 0.49280864, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb25bff58e1e48a39c75b215202bbbd
+      internalID: -2279303299419879598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 838
+        width: 1628
+        height: 1828
+      alignment: 9
+      pivot: {x: 0.4946064, y: 0.49839878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72d1ffd117d45508e9f28752524421
+      internalID: -5301390705175352536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 834
+        width: 1628
+        height: 1828
+      alignment: 9
+      pivot: {x: 0.49280864, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6f241d7dc2458fbdec4393becd04a
+      internalID: -2900384404571171342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 806
+        width: 1612
+        height: 1856
+      alignment: 9
+      pivot: {x: 0.50363094, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c511b2b084431990e17eec9fcebcf
+      internalID: -4463349303972816291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6D8B3BEE-86F1-39C5-02D3-C6F11708A930}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChickenBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManagement.cs" Line="120" Column="102" />
+      <File FileName="Assets/Scripts/SetEnvironment.cs" />
+      <File FileName="Assets/Scripts/ChickenBehavior.cs" Line="178" Column="33" />
+      <File FileName="Assets/Scripts/ButtonManager.cs" />
+      <File FileName="Assets/Scripts/FenceDoorController.cs" />
+      <File FileName="Assets/Scripts/ChickenCounter.cs" />
+      <File FileName="Assets/Scripts/LoadingTextController.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@2.0.2/Runtime/AR/ARPlaneMeshVisualizer.cs" />
+      <File FileName="Assets/MenuScripts/FadeInDeleteScript.cs" />
+      <File FileName="Assets/Scripts/DontGoThroughThings.cs" Line="59" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca7c0e1b-39c9-43d2-870a-699bbf2bf65b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

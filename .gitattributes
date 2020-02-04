@@ -1,0 +1,5 @@
+*.app filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]3[[:space:]]-[[:space:]]Asymmetrical[[:space:]]Multiplayer/Assets/sounds/bg[[:space:]]forest[[:space:]]sound.wav filter=lfs diff=lfs merge=lfs -text
+Frida[[:space:]]Wants[[:space:]]to[[:space:]]Play/Library/il2cpp_cache/linkresult_AB5B94F698F959E2FDA57C2048F7E3D5/build.bc filter=lfs diff=lfs merge=lfs -text
+Frida[[:space:]]Wants[[:space:]]to[[:space:]]Play/Library/metadata/ca/caebf09ee515948a79cf4d3a61e43f2d filter=lfs diff=lfs merge=lfs -text

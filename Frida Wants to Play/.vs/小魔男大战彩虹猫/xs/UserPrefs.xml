@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C5899283-5EB9-1663-0589-D912CF829084}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GuideController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManagement.cs" Line="24" Column="9" IsPinned="True" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="43" Column="195" />
+      <File FileName="Assets/Scripts/NormalEnemyScripts/BallController.cs" Line="42" Column="1" />
+      <File FileName="Assets/Scripts/AudioController.cs" Line="26" Column="36" />
+      <File FileName="Assets/Scripts/ChangeSpriteWhenHover.cs" Line="38" Column="28" />
+      <File FileName="Assets/Scripts/UINavigation/StartTitleUINavigation.cs" Line="29" Column="17" />
+      <File FileName="Assets/Scripts/UINavigation/PauseTitleUINavigation.cs" Line="29" Column="17" />
+      <File FileName="Assets/Scripts/UINavigation/FailedTitleUINavigation.cs" Line="42" Column="36" />
+      <File FileName="Assets/Scripts/GuideController.cs" Line="18" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1921fe5c-4803-43a5-b9ae-9a3f4825bd0c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

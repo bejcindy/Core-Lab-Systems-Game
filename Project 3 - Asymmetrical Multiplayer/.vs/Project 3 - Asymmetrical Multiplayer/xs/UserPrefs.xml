@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{317E7A18-0F33-E302-01D8-D05C20A72A28}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SelectMove.cs">
+    <Files>
+      <File FileName="Assets/Script/GameManagement.cs" Line="19" Column="46" />
+      <File FileName="Assets/Script/CanvasController.cs" />
+      <File FileName="Assets/Script/CreatureController.cs" />
+      <File FileName="Assets/Script/RangerController.cs" />
+      <File FileName="Assets/Script/YoutuberController.cs" />
+      <File FileName="Assets/Script/PublicVars.cs" />
+      <File FileName="Assets/Script/EndSceneCamController.cs" />
+      <File FileName="Assets/Script/SunController.cs" />
+      <File FileName="Assets/Script/sceneChange.cs" />
+      <File FileName="Assets/Script/PlayerJoin.cs" Line="35" Column="47" />
+      <File FileName="Assets/Script/SelectMove.cs" Line="98" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e867ad68-ca33-4523-9a53-319feea5775a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

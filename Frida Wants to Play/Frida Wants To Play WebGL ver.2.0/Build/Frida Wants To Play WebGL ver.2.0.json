@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "小魔男大战彩虹猫",
+"productVersion": "0.1",
+"dataUrl": "Frida Wants To Play WebGL ver.2.0.data.unityweb",
+"wasmCodeUrl": "Frida Wants To Play WebGL ver.2.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "Frida Wants To Play WebGL ver.2.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
